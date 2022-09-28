@@ -2,6 +2,7 @@
 
 #### 👋 Hello there! I am Gabriel, and welcome to my GitHub bio.
 
+![](https://raw.githubusercontent.com/Schweinepriester/Schweinepriester/master/MeagerHardtofindAlbertosaurus-size_restricted.gif)
 
 💻 SuperPower - CODING
 
