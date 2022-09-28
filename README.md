@@ -9,7 +9,7 @@
 
 💻 SuperPower - CODING
 
--------------------
+-------
 
 #### Achievements
 
