@@ -1,6 +1,7 @@
 
 
-#### 👋 Hi there! I am Gabriel, and welcome to my GitHub bio.
+#### 👋 Hello there! I am Gabriel, and welcome to my GitHub bio.
+
 
 💻 SuperPower - CODING
 
