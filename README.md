@@ -1,6 +1,6 @@
 
 
-#### 👋 Hello there! I am Gabriel! That's my hall of fame speech; it's short and sweet. 
+#### 👋 Hello there! I am Gabriel! 
 
 🧚‍♂️ Welcome to the moment. Look around; dig and you could find oil, or gold😁
 
